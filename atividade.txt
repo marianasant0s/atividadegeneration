@@ -1,0 +1,17 @@
+ESTUDO DE CASO
+
+Esta é a primeira semana de trabalho em seu novo emprego como desenvolvedor java júnior. Você integrará uma equipe de 10 pessoas, elaborando códigos e
+implementando novas funções no mesmo banco de códigos. Na primeira tarefa para a qual foi escalado, você corrigiu um erroreferente à exclusão de credenciais
+do usuário após execução de logout. Depois de enviar o código, você percebeu que, embora a função de logout esteja funcionando corretamente, uma outra função
+deixou de funcionar e, consequentemente, os usuários foram impedidos de efetuar login.
+
+
+
+Como podemos garantir que as alterações feitas não interrompam a funcionalidade anterior em grandes sistemas?
+Os testes com os programas para que fosse antecipado o problema e resolvido antes que possa prejudicar algo.
+
+
+Como podemos ser rigorosos em um cenário como este?
+
+eles deveriam ter feito uma Identificação e redução de erros, pois quando criamos mais uma classe de teste antes de implementar o sistema 
+na empresa já verificamos os códigos para não ter consequências onde os usuários não efetuem os login.
